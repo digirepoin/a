@@ -64,7 +64,7 @@ Features thousands of servers globally, providing fast and stable connections id
 Ensures DNS requests remain private, preventing accidental data exposure.
 
 <a href="https://afftrend.com/surfshark">
-  <img src="https://raw.githubusercontent.com/digirepoin/a/refs/heads/main/img/btn/1.png" alt="Centered Octocat">
+  <img src="https://drive.google.com/uc?export=view&id=1ePaUvsLYvBwBoQDfNCUixVZkh-PCAft-" alt="Centered Octocat">
 </a>
 
 ## FAQs
