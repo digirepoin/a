@@ -11,7 +11,7 @@ What sets Surfshark apart is its affordability combined with premium features li
 In this comprehensive Surfshark Review 2025, we will explore its features, pricing plans, performance metrics, integrations, and more to help you determine if it’s the right VPN for your specific needs.
 
 <a href="https://afftrend.com/surfshark">
-  <img src="https://raw.githubusercontent.com/digirepoin/a/img/btn/1.png" alt="Centered Octocat">
+  <img src="https://raw.githubusercontent.com/digirepoin/a/refs/heads/main/img/btn/1.png" alt="Centered Octocat">
 </a>
 
 ## Surfshark Overview
@@ -64,7 +64,7 @@ Features thousands of servers globally, providing fast and stable connections id
 Ensures DNS requests remain private, preventing accidental data exposure.
 
 <a href="https://afftrend.com/surfshark">
-  <img src="https://raw.githubusercontent.com/digirepoin/a/img/btn/1.png" alt="Centered Octocat">
+  <img src="https://raw.githubusercontent.com/digirepoin/a/refs/heads/main/img/btn/1.png" alt="Centered Octocat">
 </a>
 
 ## FAQs
