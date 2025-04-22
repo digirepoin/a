@@ -9,10 +9,10 @@ Recent statistics indicate a 43% rise in cyber-attacks and data breaches globall
 What sets Surfshark apart is its affordability combined with premium features like MultiHop, CleanWeb, and unlimited simultaneous connections. Its intuitive design makes it ideal for a wide range of users, from tech novices to digital nomads who frequently travel internationally and encounter internet restrictions.
 
 In this comprehensive Surfshark Review 2025, we will explore its features, pricing plans, performance metrics, integrations, and more to help you determine if it’s the right VPN for your specific needs.
-
+<div style="display: flex; justify-content: center;">
 <a href="https://afftrend.com/surfshark">
-  <img src="https://raw.githubusercontent.com/digirepoin/a/refs/heads/main/img/btn/1.png" alt="Centered Octocat">
-</a>
+  <img src="https://raw.githubusercontent.com/digirepoin/a/refs/heads/main/img/btn/1.png" alt="Try Surfshark">
+</a></div>
 
 ## Surfshark Overview
 
