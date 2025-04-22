@@ -28,7 +28,7 @@ Let’s explore whether Bright Data truly lives up to the hype in 2025, or if be
 
 Bright Data is a premium proxy and web data collection platform offering a wide range of solutions including residential proxies, scraping APIs, and ready-to-use datasets. It’s designed for enterprises that require large-scale, compliant data extraction services with minimal friction.
 
-### Bright Data Overview Table
+### An Overview
 
 | Feature                       | Details                                                                |
 |------------------------------|-------------------------------------------------------------------------|
