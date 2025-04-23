@@ -11,7 +11,7 @@ What sets Surfshark apart is its affordability combined with premium features li
 In this comprehensive Surfshark Review 2025, we will explore its features, pricing plans, performance metrics, integrations, and more to help you determine if it’s the right VPN for your specific needs.
 
 <a href="https://afftrend.com/surfshark">
-  <img src="https://raw.githubusercontent.com/digirepoin/a/refs/heads/main/img/btn/1.png" alt="Try Surfshark">
+  <img src="https://drive.google.com/uc?export=view&id=1lDtKHsXR0IJ5U39YxaBc_EH0Hjh0BnG2" alt="Try Surfshark">
 </a>
 
 ## Surfshark Overview
