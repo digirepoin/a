@@ -8,7 +8,7 @@ From boosting on-page engagement with interactive tables to streamlining your de
 Ready to see how Crocoblock can accelerate your site builds and improve user retention? Let’s break down its core offerings, pricing options, and real-world alternatives so you can decide if it’s the best fit for your next project.
 
 <a href="https://afftrend.com/crocoblock"> 
-<img src=" https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
 </a>
 
 ---
@@ -85,7 +85,7 @@ Crocoblock offers two main plans:
 6. **Toolset** – Comprehensive custom post type and relationship manager; steeper learning curve and requires more configuration.
 
 <a href="https://afftrend.com/crocoblock"> 
-<img src=" https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
 </a>
 
 ---
